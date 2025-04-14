@@ -7,4 +7,5 @@
 #mysql
 #redis
 #ubuntu
-portainer-ce
+#portainer-ce
+php7.4
