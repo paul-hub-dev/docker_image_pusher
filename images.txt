@@ -8,4 +8,4 @@
 #redis
 #ubuntu
 #portainer-ce
-php7.4
+centos7
